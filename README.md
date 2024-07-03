@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://twitter.com/rishi" target="blank"><img src="https://img.shields.io/twitter/follow/rishi?logo=twitter&style=for-the-badge" alt="rishi" /></a> </p>
 
-- 🔭 I’m currently working on **Toy Store**
+- 🔭 I’m currently working on **React Native #Android #Web**
 
 - 🌱 I’m currently learning **React Native**
 
