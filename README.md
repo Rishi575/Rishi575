@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Rishi</h1>
+<h1 align="center">Hi 👋, I'm RishiGovind</h1>
 <h3 align="center">Junior Software Engineer from India</h3>
 <img align="right" alt="coding.." width="400" src="https://i.pinimg.com/originals/54/e3/7d/54e37d8074ebcde1d96c77d7b2a7f310.gif"/>
 
@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://twitter.com/rishi" target="blank"><img src="https://img.shields.io/twitter/follow/rishi?logo=twitter&style=for-the-badge" alt="rishi" /></a> </p>
 
-- 🔭 I’m currently working on **React Native #Android #Web**
+- 🔭 I’m currently working on **React Native #React-Viet #Android #Web**
 
 - 🌱 I’m currently learning **React Native**
 
